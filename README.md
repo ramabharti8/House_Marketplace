@@ -58,7 +58,7 @@ npm (Node Package Manager)<br />
 Firebase account (for configuring the Firebase backend)<br />
 
 # Images and Video
-# Video: App Demo<br />
+# Video: App Demo <br />
 https://github.com/ramabharti8/House_XenonStack/assets/97527733/cf95c904-2753-4c99-8d82-c43f242815fe
 
 # Sign In Page :<br /> 
